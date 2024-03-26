@@ -1,0 +1,12 @@
+## Download the Llama 2 Model:
+
+llama-2-7b-chat.ggmlv3.q4_0.bin
+
+
+## From the following link:
+https://huggingface.co/TheBloke/Llama-2-7B-Chat-GGML/tree/main
+
+1. Open this link in the browser
+2. Use the Download icon next to the model name on line 3
+3. save it to this folder ./model
+4. You can now access the model
